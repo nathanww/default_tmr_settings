@@ -1,2 +1,2 @@
-#list of devices still on adaptation night for the paller lab sleep experiment
-test1
+#list of devices allowed to proceed to emory tasks in the home sleep experiment
+test14
