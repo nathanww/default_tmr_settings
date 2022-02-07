@@ -1,2 +1,1 @@
 #list of devices allowed to proceed to emory tasks in the home sleep experiment
-S73
