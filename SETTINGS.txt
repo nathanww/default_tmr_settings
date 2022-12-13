@@ -2,5 +2,7 @@ USER_ID, BACKOFF_TIME, MAX_STIM, ONSET_CONFIDENCE, E_STOP, BUFFER_SIZE,ONSET_TIM
 NEW_DEFAULT,300000, 630, 0.001, 0.00001,240,1,14400000,10000,0.0,0.0,0.015,0.00025,FILES:test1.wav:test2.wav:test3.wav
 DEFAULT, 300000, 630, 0.9, 0.85, 240,3600000,14400000,10000,0.0,0.018,0.015,0.00025,FILES:s22.wav
 BRUXISM, 300000, 4000, 1.1, 1.1, 240,1800000,14400000,2000,0.0,0.0,0.0,0.00025,FILES:silent.wav
-NAMES_EXP, 300000, 630, 0.9, 0.85, 240,3600000,14400000,10000,0.0,0.0,0.015,0.00025,FILES:alfred_tmr.wav:alton_tmr.wav:bernice_tmr.wav:bette_tmr.wav:beverly_tmr.wav:calvin_tmr.wav:charles_tmr.wav:clifford.wav:dean_tmr.wav:evelyn_tmr.wav:gertrud_tmr.wav:henry_tmr.wav:lyle_tmr.wav:pearl_tmr.wav:phillip_tmr.wav:rachel_tmr.wav:rosa_tmr.wav:theresa_tmr.wav:willie_tmr.wav:winifred_tmr.wav
-NAMES_TEST, 1, 630, 0.000000001, 0.000000001, 10,1000,14400000,10000,0.0,0.0,0.015,0.00025,FILES:c01.wav:c02.wav:c03.wav:c04.wav:c05.wav:c06.wav:c07.wav:c08.wav:c09.wav:c10.wav:c11.wav:c12.wav:c13.wav:c14.wav:c15.wav:c16.wav:c17.wav:c18.wav:c19.wav:c20.wav:
+
+ns000, 300000, 630, 0.9, 0.85, 240,3600000,14400000,10000,0.0,0.0,0.015,0.00025,FILES:n01.wav:n02.wav:n03.wav:n04.wav:n05.wav:n06.wav:n07.wav:n08.wav:n09.wav:n10.wav:n11.wav:n12.wav:n13.wav:n14.wav:n15.wav:n16.wav:n17.wav:n18.wav:n19.wav:n20.wav
+ns100, 300000, 630, 0.9, 0.85, 240,3600000,14400000,10000,0.0,0.0,0.015,0.00025,FILES: c01.wav:c02.wav:c03.wav:c04.wav:c05.wav:c06.wav:c07.wav:c08.wav:c09.wav:c10.wav:c11.wav:c12.wav:c13.wav:c14.wav:c15.wav:c16.wav:c17.wav:c18.wav:c19.wav:c20.wav
+N_TEST, 1, 630, 0.000000001, 0.000000001, 10,1000,14400000,10000,0.0,0.0,0.015,0.00025,FILES:c01.wav:c02.wav:c03.wav:c04.wav:c05.wav:c06.wav:c07.wav:c08.wav:c09.wav:c10.wav:c11.wav:c12.wav:c13.wav:c14.wav:c15.wav:c16.wav:c17.wav:c18.wav:c19.wav:c20.wav
